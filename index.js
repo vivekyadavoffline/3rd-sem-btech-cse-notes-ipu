@@ -4,7 +4,7 @@
 
 /* ---------------------------------------------------------
    ELEMENT REFERENCES
---------------------------------------------------------- */
+---------------------------------------------------------------- */
 const themeBtn = document.getElementById("themeBtn");
 const examBtn  = document.getElementById("examBtn");
 const lightBtn = document.getElementById("lightBtn");
